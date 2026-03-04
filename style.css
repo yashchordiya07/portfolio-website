@@ -91,16 +91,10 @@ padding:40px;
 color:#94a3b8;
 }
 .profile-photo{
-
 width:180px;
 height:180px;
-
 border-radius:50%;
-
 object-fit:cover;
-
 margin-bottom:20px;
-
 border:4px solid #38bdf8;
-
 }
